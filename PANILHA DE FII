@@ -1,0 +1,29 @@
+# Simulador de Investimentos em Fundos Imobiliários (Excel)
+
+## 📘 Descrição
+Esta planilha foi desenvolvida para simular investimentos em FIIs com base em aportes mensais, rendimento estimado e tempo de aplicação. O objetivo é oferecer ao investidor uma visão clara do potencial de crescimento de seu patrimônio e dos dividendos gerados.
+
+## 🧮 Funcionalidades
+- Entrada de parâmetros personalizáveis;
+- Cálculo automático de patrimônio, dividendos e total investido;
+- Tabela de evolução mensal;
+- Gráficos dinâmicos e intuitivos.
+
+## 📊 Como usar
+1. Insira os dados na área de entrada (investimento inicial, aporte mensal, tempo, rendimento);
+2. Os cálculos e gráficos serão atualizados automaticamente;
+3. Analise os resultados para tomar decisões mais informadas.
+
+## 🛠️ Tecnologias
+- Microsoft Excel (funções financeiras, gráficos, fórmulas);
+- GitHub para versionamento e compartilhamento.
+
+## 📎 Exemplo de Cenários
+- **Conservador**: 0,6% ao mês, aporte de R$ 300
+- **Moderado**: 0,8% ao mês, aporte de R$ 500
+- **Agressivo**: 1% ao mês, aporte de R$ 1.000
+
+## 📂 Arquivo
+[🔗 Clique aqui para baixar a planilha (SIMULADOR_FII)](https://1drv.ms/x/c/06476e4d08b525c5/EWUUypuBqMBGpvcjtBAlKisBLfna-lXY-YshkDz0B8dBIg?e=97Gl4x)
+
+---
